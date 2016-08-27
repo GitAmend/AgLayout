@@ -1,6 +1,6 @@
 # AgLayout
 
-[![CI Status](http://img.shields.io/travis/erxiangbo/AgLayout.svg?style=flat)](https://travis-ci.org/erxiangbo/AgLayout)
+[![CI Status](http://img.shields.io/travis/GitAmend/AgLayout.svg?style=flat)](https://travis-ci.org/GitAmend/AgLayout)
 [![Version](https://img.shields.io/cocoapods/v/AgLayout.svg?style=flat)](http://cocoapods.org/pods/AgLayout)
 [![License](https://img.shields.io/cocoapods/l/AgLayout.svg?style=flat)](http://cocoapods.org/pods/AgLayout)
 [![Platform](https://img.shields.io/cocoapods/p/AgLayout.svg?style=flat)](http://cocoapods.org/pods/AgLayout)
@@ -22,7 +22,7 @@ pod "AgLayout"
 
 ## Author
 
-erxiangbo, erxiangbo@wacai.com
+GitAmend, gitamend@163.com
 
 ## License
 

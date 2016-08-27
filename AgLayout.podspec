@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'AgLayout'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of AgLayout.'
+  s.summary          = 'AgLayout is an layout util for ios in ObjC.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,25 +18,17 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+AgLayout is an layout util for ios in ObjC. Including a AgLayout to help 
+move/stretch view around and a view frame accessor.
                        DESC
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/AgLayout'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  s.homepage         = 'https://github.com/gitamend/AgLayout'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'erxiangbo' => 'erxiangbo@wacai.com' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/AgLayout.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.author           = { 'GitAmend' => 'gitamend@163.com' }
+  s.source           = { :git => 'https://github.com/gitamend/AgLayout.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '7.0'
 
   s.source_files = 'AgLayout/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'AgLayout' => ['AgLayout/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.frameworks = 'UIKit'
 end

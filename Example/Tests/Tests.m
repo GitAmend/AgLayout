@@ -2,8 +2,8 @@
 //  AgLayoutTests.m
 //  AgLayoutTests
 //
-//  Created by erxiangbo on 08/26/2016.
-//  Copyright (c) 2016 erxiangbo. All rights reserved.
+//  Created by GitAmend on 08/26/2016.
+//  Copyright (c) 2016 GitAmend. All rights reserved.
 //
 
 // https://github.com/kiwi-bdd/Kiwi
